@@ -1,0 +1,31 @@
+﻿candy
+toys
+food
+fruit
+vegetables
+clothes
+shirts
+bread
+cake
+cakes
+milk
+shoes
+pants
+belts
+socks
+candies
+cleaning supplies
+soap
+makeup
+beauty products
+pet supplies
+dog food
+cat food
+bird food
+medicine
+cold medicine
+headache medicine
+pain medicine
+video games
+home electronics
+tools

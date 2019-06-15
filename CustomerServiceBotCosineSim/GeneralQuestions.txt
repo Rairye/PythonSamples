@@ -1,0 +1,69 @@
+﻿We are located on Main Street.
+Our store is on Main Street.
+We are on Main Street.
+Our store is located on Main Street.
+You can find us on Main Street.
+We open at 11:00 AM.
+We close at 9:00 PM.
+We are open from 11:00 AM to 9:00 PM.
+Our store is open from 11:00 AM to 9:00 PM.
+Our store is open every day.
+We are open every day.
+We open at 11:00 AM on Monday.
+We open at 11:00 AM on Mondays.
+We close at 9:00 PM on Monday.
+We close at 9:00 PM on Mondays.
+We open at 11:00 AM on Tuesday.
+We open at 11:00 AM on Tuesdays.
+We close at 9:00 PM on Tuesday.
+We close at 9:00 PM on Tuesdays
+We open at 11:00 AM on Wednesday.
+We open at 11:00 AM on Wednesdays.
+We close at 9:00 PM on Wednesday.
+We close at 9:00 PM on Wednesdays.
+We open at 11:00 AM on Thursday.
+We open at 11:00 AM on Thursdays.
+We close at 9:00 PM on Thursday.
+We close at 9:00 PM on Thursdays.
+We open at 11:00 AM on Friday.
+We open at 11:00 AM on Fridays.
+We close at 9:00 PM on Friday.
+We close at 9:00 PM on Fridays.
+We open at 11:00 AM on Saturday.
+We open at 11:00 AM on Saturdays.
+We close at 9:00 PM on Saturday.
+We close at 9:00 PM on Saturdays.
+We open at 11:00 AM on Sunday.
+We open at 11:00 AM on Sundays.
+We close at 9:00 PM on Sunday.
+We close at 9:00 PM on Sundays.
+Yes, we are open on Monday.
+Yes, we are open on Mondays.
+Yes, we are open on Tuesdays.
+Yes, we are open on Wednesdays.
+Yes, we are open on Wednesday.
+Yes, we are open on Thursday.
+Yes, we are open on Thursdays.
+Yes, we are open on Friday.
+Yes, we are open on Fridays.
+Yes, we are open on Saturday.
+Yes, we are open on Satrudays.
+Yes, we are open on Sunday.
+Yes, we are open on Sundays.
+Yes, we are open on holidays.
+No, we do not allow pets.
+Sorry, you cannot bring a pet.
+Yes, you can bring a service animal.
+Yes, we allow service animals.
+Yes, we are currently hiring.
+Yes, we can deliver products.
+Yes, we can deliver your purchase.
+Yes, we can deliver.
+Yes, we deliver.
+Yes, our store delivers.
+Yes, we have bicycle parking.
+Our restrooms are located in the front of the store.
+Our bathrooms are located in the front of the store.
+Our restrooms are at the front of the store.
+Our bathrooms are at the front of the store.
+

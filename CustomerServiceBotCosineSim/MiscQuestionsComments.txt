@@ -1,0 +1,32 @@
+How can I apply for a job?	Please contact us at 555-5555, or come in to our store.
+Do you have bathrooms?	Yes, we do. They are located at the front of the store.
+Do you have restrooms?	Yes, we do. They are located at the front of the store.
+Does your store have bathrooms?	Yes, it does. They are located at the front of the store.
+Do your store have restrooms?	Yes, it does. They are located at the front of the store.
+I love your store.	Thank you. We appreciate it.
+I like your store.	Thank you. We appreciate it.
+I love your staff.	Thank you. We appreciate it.
+I like your staff.	Thank you. We appreciate it.
+I love your customer service.	Thank you. We appreciate it.
+I like your customer service.	Thank you. We appreciate it.
+I hate your store.	We are sorry to hear that. If you have any complaints, please contact us at 555-5555.
+I don't like your store.	We are sorry to hear that. If you have any complaints, please contact us at 555-5555.
+I don't love your store.	We are sorry to hear that. If you have any complaints, please contact us at 555-5555.
+I hate your staff.	We are sorry to hear that. If you have any complaints, please contact us at 555-5555.
+I don't like your staff.	We are sorry to hear that. If you have any complaints, please contact us at 555-5555.
+I don't love your staff.	We are sorry to hear that. If you have any complaints, please contact us at 555-5555.
+I hate your customer service.	We are sorry to hear that. If you have any complaints, please contact us at 555-5555.
+I don't like your customer service.	We are sorry to hear that. If you have any complaints, please contact us at 555-5555.
+I don't love your customer serivce.	We are sorry to hear that. If you have any complaints, please contact us at 555-5555.
+How can I make a return?	Please bring the item and the receipt to our store within 30 days of purchase.
+How can I return an item?	Please bring the item and the receipt to our store within 30 days of purchase.
+I want to return an item.	Please bring the item and the receipt to our store within 30 days of purchase.
+Can I return an item?	Please bring the item and the receipt to our store within 30 days of purchase.
+Do you accept returns?	Yes, we do. Please bring the item and the receipt to our store within 30 days of purchase.
+Do you have a food court?	Unfortunately, we do not have a food court.
+Do you have any restaurants?	Unfortunately, we do not have any restaurants.
+When does your store open?	Our store opens at 11:00 AM.
+When does your store close?	Our store closes at 9:00 PM.
+I want to file a complaint.	Please contact us at 555-5555.
+How can I file a complaint?	Please contact us at 555-5555.
+Where are you?	Our store is on Main Street.
