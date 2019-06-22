@@ -110,7 +110,7 @@ def search_string (search_string):
 def sort_by_count(number):
     return number[1]
 
-#Searches for a single word and returns the results in order of frequency
+#Searches for a single word and prints the results in order of frequency
 
 def search_single(word):
     norm_search_word= normalize(word)
