@@ -1,5 +1,5 @@
 # Inverted index example for searching for text in document.
-# Requires NLTk
+# Requires NLTK
 # License of corpus: Creative Commons
 
 from nltk.tokenize import sent_tokenize, word_tokenize
