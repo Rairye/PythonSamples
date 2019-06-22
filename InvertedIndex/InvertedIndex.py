@@ -59,9 +59,7 @@ def search_string (search_string):
     norm_search_string = normalize(search_string)
     search_words = word_tokenize(norm_search_string)
     
-    if len(norm_search_string) == 0:
-        print ("No results.")
-    else:
+    if len(norm_search_string) > 0:
         non_stop_words = []
 
         for word in search_words:
