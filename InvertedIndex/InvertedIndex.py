@@ -84,7 +84,6 @@ def search_string (search_string):
                     else:
                         result = indexes1.intersection(indexes2)
                         if len(result) == 0:
-                           
                             print("No results.")
                             return
                         else:
