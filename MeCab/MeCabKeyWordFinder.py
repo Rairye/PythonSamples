@@ -24,7 +24,7 @@ for line in lines:
                 compound = ''.join(noun_components)
                 if compound in word_counts:
                     temp_count = word_counts[compound]
-                    word_counts[comound] = temp_count + 1
+                    word_counts[compound] = temp_count + 1
                 else:
                     word_counts[compound] = 1
             noun_components = []
