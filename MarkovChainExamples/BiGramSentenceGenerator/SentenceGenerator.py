@@ -103,7 +103,7 @@ def get_sent():
                 else:
                     maxed = True
                     
-            #Prevents infite loops
+            #Prevents infinite loops
             if len(words) == 1 and words[0].lower() in stop_words:
                 second_word = random.choice(keys)
             else:
