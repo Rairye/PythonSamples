@@ -55,11 +55,13 @@ def get_response(user_input):
         sim = cosine_similarity(matrix[0], matrix[1])
         sim_num = round(sim[0][0], 2)
 
+        if sim_num == cosine_sim:
+            responses.append(inputs_outputs[input_phrase])
+            
         if sim_num > cosine_sim:
             cosine_sim = sim_num
             responses = [inputs_outputs[input_phrase]]
-        if sim_num == cosine_sim:
-            responses.append(inputs_outputs[input_phrase])
+       
              
     if len(responses) == 0:
         return "I don't know what you are talking about."
