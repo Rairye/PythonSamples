@@ -1,4 +1,4 @@
-# Chat bot based on lines from The Simpsons.
+# Chat bot based on lines from The Simpsons. Responses are printed to the console and also provided using TTS.
 # Data source: https://www.kaggle.com/pierremegret/dialogue-lines-of-the-simpsons
 # License: CC BY-SA 3.0
 # Link to license: https://creativecommons.org/licenses/by-sa/3.0/
