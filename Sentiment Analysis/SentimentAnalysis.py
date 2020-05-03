@@ -89,8 +89,8 @@ model.compile(loss='binary_crossentropy', optimizer='adam', metrics=['accuracy']
 
 
 try:
-    model.fit(padded_x_train, y_train, validation_split = 0.05, epochs=10, batch_size=400)
-    result = model.evaluate(padded_x_test, y_test)
+    model.fit(np.array(padded_x_train), np.array(y_train), validation_split = 0.90, epochs=100, batch_size=400, verbose = 1)
+    result = model.evaluate(np.array(padded_x_test), np.array(y_test))
     print("\nResult: ", result)
 except Exception as e:
     print("Excpetion: ", e)
