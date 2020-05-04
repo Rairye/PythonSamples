@@ -35,7 +35,7 @@ while i < shape:
         while j < len(split):
             word = split[j]
             word = word.strip()
-            word = word.translate(str.maketrans('', '', "\"$.?1%&/'()*+,:;<=>[\]^_`{|}~“”’"))
+            word = word.translate(str.maketrans('', '', "\"$.?!%&/'()*+,:;<=>[\]^_`{|}~“”’"))
             if not word.startswith("@"):                    
                 if (re.match('^[a-zA-Z0-9.?!-#]+$', word)):
                     result = result + word
