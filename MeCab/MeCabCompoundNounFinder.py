@@ -23,6 +23,8 @@ for line in lines:
                 compound_nouns.append(''.join(noun_components))
             noun_components = []
         i+=1
+    if len(noun_components) > 1:
+        compound_nouns.append(''.join(noun_components))
 
 for word in compound_nouns:
     print(word)
